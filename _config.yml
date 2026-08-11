@@ -357,7 +357,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Prusa]
-  first_name: [Thomas, Thomas J., Thomas J, T. J., T.J.]
+  first_name: [Thomas, J.]
 
   style: apa
   locale: en
