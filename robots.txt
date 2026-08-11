@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ThomasPrusa.github.io/sitemap.xml
