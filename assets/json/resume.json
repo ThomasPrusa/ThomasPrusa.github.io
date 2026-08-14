@@ -2,7 +2,7 @@
   "basics": {
     "name": "Thomas J. Prusa",
     "label": "Professor of Economics",
-    "email": "prusa@economics.rutgers.edu",
+    "email": "prusa@rutgers.edu",
     "phone": "(848) 932-8646",
     "summary": "Professor of Economics at Rutgers University specializing in international trade policy, with a research focus on antidumping and countervailing duties, WTO dispute settlement, trade remedies in preferential trade agreements, and the duration of trade relationships.",
     "location": {
@@ -18,7 +18,6 @@
     {
       "name": "Rutgers, The State University of New Jersey",
       "position": "Professor of Economics",
-      "url": "https://economics.rutgers.edu/",
       "startDate": "2001",
       "endDate": "",
       "summary": "",
@@ -263,7 +262,7 @@
       "organization": "Review of International Economics",
       "position": "Editorial Council",
       "startDate": "1994",
-      "endDate": "",
+      "endDate": "2018",
       "summary": "",
       "highlights": []
     },
