@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses taught at the undergraduate and graduate level.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 Teaching has been a central part of my work at Rutgers and, earlier, at Stony Brook,
