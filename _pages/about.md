@@ -15,14 +15,6 @@ profile:
     <p>Rutgers University</p>
     <p>New Brunswick, NJ 08901-1248</p>
 
-<style>
-  .navbar-brand .first-name, 
-  .navbar-brand .last-name {
-    font-size: 1.25rem !important;  
-    font-weight: 700 !important;   
-  }
-</style>
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
