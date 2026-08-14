@@ -15,6 +15,15 @@ profile:
     <p>Rutgers University</p>
     <p>New Brunswick, NJ 08901-1248</p>
 
+<!-- PASTE THE HTML CODE HERE, BELOW THE THREE DASHES -->
+<style>
+  .header .site-title .first-name, 
+  .header .site-title .last-name {
+    font-size: 1.5rem !important;   
+    font-weight: 700 !important;    
+  }
+</style>
+
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
