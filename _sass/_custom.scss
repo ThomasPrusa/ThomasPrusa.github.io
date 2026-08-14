@@ -1,6 +1,6 @@
----
-# Only the main Sass file needs front matter (the two lines of dashes)
----
-
-@import "al-folio"; // Imports the base gem styles
-@import "custom";   // Imports your new font overrides
+/* Force first name and last name to share the same font weight and size */
+.header .site-title .first-name, 
+.header .site-title .last-name {
+  font-size: 1.5rem !important;   /* Sets an identical text size */
+  font-weight: 700 !important;    /* Makes both parts bold */
+}
