@@ -328,7 +328,6 @@
   "skills": [
     {
       "name": "Undergraduate Teaching",
-      "level": "",
       "icon": "fa-solid fa-chalkboard-user",
       "keywords": [
         "Introduction to Microeconomics",
@@ -342,7 +341,6 @@
     },
     {
       "name": "Graduate Teaching",
-      "level": "",
       "icon": "fa-solid fa-graduation-cap",
       "keywords": ["International Trade", "Managerial Economics (MBA level)"]
     }
