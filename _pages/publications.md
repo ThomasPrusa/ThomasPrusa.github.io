@@ -14,7 +14,5 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-
-{% bibliography %}
-
+{% bibliography -q @article[category!=other], @incollection[category!=other], @techreport[category!=other], @unpublished[category!=other], @misc[category!=other] %}
 </div>
