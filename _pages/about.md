@@ -15,8 +15,6 @@ profile:
     <p>Rutgers University</p>
     <p>New Brunswick, NJ </p>
     <p>08901-1248 </p>
-    <p>p </p>
-    <p>p </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
