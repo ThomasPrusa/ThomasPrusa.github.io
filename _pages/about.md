@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Professor at the <a href="https://economics.rutgers.edu/" target="_blank">Department of Economics</a>, <a href="https://www.rutgers.edu/" target="_blank">Rutgers University</a>
+subtitle: Professor at the <a href="https://economics.rutgers.edu/" target="_blank">Department of Economics</a>, <a href="https://www.rutgers.edu/" target="_blank">Rutgers University </a>
 
 profile:
   align: right
